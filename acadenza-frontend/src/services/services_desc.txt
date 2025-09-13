@@ -1,0 +1,5 @@
+services\
+
+Contains essential services
+- Supabase client
+- API wrappers

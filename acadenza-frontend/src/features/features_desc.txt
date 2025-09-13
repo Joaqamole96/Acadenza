@@ -1,0 +1,7 @@
+features\
+
+Contains feature-specific components & logic
+- auth\         (Authentication)
+- tasks\        (Curricular/Extracurricular Tasks)
+- schedule\     (Curriculum Schedule)
+- dashboard\    (User Dashboard)

@@ -1,0 +1,6 @@
+page\
+
+Contains page-level components
+- Home page
+- Dashboard page
+- Login page

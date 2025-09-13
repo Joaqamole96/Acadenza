@@ -1,0 +1,5 @@
+layout\
+
+Contains page skeletons
+- Dashboard layout
+- Authentication layout
