@@ -1,5 +1,0 @@
-styles\
-
-Contains global and local styles
-- Tailwind base styles
-- Custom CSS
